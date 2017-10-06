@@ -1,1 +1,1 @@
-# ReedAmerica-ReactNative
+# Delivery-React Native with Redux
